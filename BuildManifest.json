@@ -1,0 +1,102 @@
+{
+    "version": "2.0.11102025_165809",
+    "android": {},
+    "windows": {
+        "pakchunk1-Windows.pak": {
+            "filename": "pakchunk1-Windows.pak",
+            "hash": "a80869868c6a537c485946020e8e2ebad50b90d6334e6f269c8025514e89ec2e",
+            "size": 6611500,
+            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk1-Windows.pak"
+        },
+        "pakchunk101-Windows.pak": {
+            "filename": "pakchunk101-Windows.pak",
+            "hash": "2fa2fbeb5cd45bc10ee3734fb4d4336682ca59e073114ed160fea0db423df80c",
+            "size": 14603016,
+            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk101-Windows.pak"
+        },
+        "pakchunk102-Windows.pak": {
+            "filename": "pakchunk102-Windows.pak",
+            "hash": "c45572593504966d3e28f7c8621ead26f669d89656c2eb2f2f3f1a2910ce6e7d",
+            "size": 21173749,
+            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk102-Windows.pak"
+        },
+        "pakchunk103-Windows.pak": {
+            "filename": "pakchunk103-Windows.pak",
+            "hash": "16b51ba0e5e31b357dc8e3ef90e796a1b3ffd62d3554809a6ee1c5dcace441c0",
+            "size": 20055213,
+            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk103-Windows.pak"
+        },
+        "pakchunk104-Windows.pak": {
+            "filename": "pakchunk104-Windows.pak",
+            "hash": "ea362a01d9ef148c2c610280284437439e54c68999899ac5f33d39040bbc34f8",
+            "size": 16702074,
+            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk104-Windows.pak"
+        },
+        "pakchunk105-Windows.pak": {
+            "filename": "pakchunk105-Windows.pak",
+            "hash": "6e0d3459f169b7e3c8fff34e4da111037d4a323e198d3ad3435d8e7a0a2d21ef",
+            "size": 59966270,
+            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk105-Windows.pak"
+        },
+        "pakchunk106-Windows.pak": {
+            "filename": "pakchunk106-Windows.pak",
+            "hash": "0758141abd751ea657542f56e021c0c8216d3006d070e8a4d780a05321ed761a",
+            "size": 11309746,
+            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk106-Windows.pak"
+        },
+        "pakchunk107-Windows.pak": {
+            "filename": "pakchunk107-Windows.pak",
+            "hash": "45a443f0587dec93800e337bd2c29cf0c371ef931c7bfcbd91bb570b484bb299",
+            "size": 19937722,
+            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk107-Windows.pak"
+        },
+        "pakchunk108-Windows.pak": {
+            "filename": "pakchunk108-Windows.pak",
+            "hash": "0974bddb890c72ca4dca34cee7e7490e5bcc44d7d3fb5fdf92eb963896a3c91c",
+            "size": 61320095,
+            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk108-Windows.pak"
+        },
+        "pakchunk109-Windows.pak": {
+            "filename": "pakchunk109-Windows.pak",
+            "hash": "17267ec0e4c894dcafff7d2840adb8ce47d60716cf869af21f91ad5d1913a33b",
+            "size": 27266534,
+            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk109-Windows.pak"
+        },
+        "pakchunk110-Windows.pak": {
+            "filename": "pakchunk110-Windows.pak",
+            "hash": "955edc157cebae6077501d569f81586c55707b9765aa0c01ed713f4de9cc15c9",
+            "size": 33914179,
+            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk110-Windows.pak"
+        },
+        "pakchunk2-Windows.pak": {
+            "filename": "pakchunk2-Windows.pak",
+            "hash": "fdf7d3bd0b7597e087414ef2b01eac7bc8c0dba5228ff5f89f1f5499cbe01818",
+            "size": 99080598,
+            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk2-Windows.pak"
+        },
+        "pakchunk201-Windows.pak": {
+            "filename": "pakchunk201-Windows.pak",
+            "hash": "a48f7178d1aba180b9039ab95367f421ba61c6bedd7cee77982d22eccdd1a81b",
+            "size": 12699,
+            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk201-Windows.pak"
+        },
+        "pakchunk3-Windows.pak": {
+            "filename": "pakchunk3-Windows.pak",
+            "hash": "b93e7a0e765e9c9231254cd806c1ba067446c6cb4656cf909515bbe919ee8b76",
+            "size": 2303847,
+            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk3-Windows.pak"
+        },
+        "pakchunk4-Windows.pak": {
+            "filename": "pakchunk4-Windows.pak",
+            "hash": "9523bd278fcb302ad4f4a43c8fb56a42aed81fccede2aedfe4d6624b7fd7ee88",
+            "size": 40197558,
+            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk4-Windows.pak"
+        },
+        "pakchunk5-Windows.pak": {
+            "filename": "pakchunk5-Windows.pak",
+            "hash": "263db7a6b27ee87adc59fb3c118074f2931169def28e264947038fd716352630",
+            "size": 1059566,
+            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk5-Windows.pak"
+        }
+    }
+}
