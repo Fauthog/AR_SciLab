@@ -1,5 +1,5 @@
 {
-    "version": "2.0.11102025_171813",
+    "version": "2.0.11102025_171815",
     "android": {
         "E1.json": {
             "filename": "E1.json",
@@ -288,13 +288,13 @@
         "E9.json": {
             "filename": "E9.json",
             "hash": "5211c2d4351f8fdac4699e65d7466bf6fe8b6d6907ec470eb1d574aec9562088",
-            "size": 294502,
+            "size": 287405,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E9.json"
         },
         "menu.json": {
             "filename": "menu.json",
             "hash": "f4df130dd89dab002c3cfdc08cedb623f7aa0110fd2b648d9f0c2562c545da71",
-            "size": 2798,
+            "size": 2747,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/menu.json"
         },
         "sugar.mp4": {
