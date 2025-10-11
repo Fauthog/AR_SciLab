@@ -1,0 +1,75 @@
+{
+    "E10sub.json": {
+        "filename": "E10sub.json",
+        "hash": "77a2304d48a70b509f7dbe089b526f75d31a9d1a2be613e206a3c2d720a25c53",
+        "size": 21757,
+        "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E10sub.json"
+    },
+    "E1sub.json": {
+        "filename": "E1sub.json",
+        "hash": "943cc3a581c4ad0294fc54c1ae2f9933b67c76512fcfaaf6262742153b7b9639",
+        "size": 23145,
+        "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E1sub.json"
+    },
+    "E2sub.json": {
+        "filename": "E2sub.json",
+        "hash": "9d064de46f544ade9edd483ecf3ec79bd0be8df052850fcc778699dfe68cf33c",
+        "size": 16739,
+        "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E2sub.json"
+    },
+    "E3sub.json": {
+        "filename": "E3sub.json",
+        "hash": "10c8fc696c4302db3ddfd2ecb566829ac6bb0a4617951eddd9af55f8a4b40049",
+        "size": 11412,
+        "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E3sub.json"
+    },
+    "E4sub.json": {
+        "filename": "E4sub.json",
+        "hash": "ff2e745aac92e63832baeb0a3ab64c04ae6a2ce91865ebd69d342b67a0568a39",
+        "size": 12481,
+        "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E4sub.json"
+    },
+    "E5sub.json": {
+        "filename": "E5sub.json",
+        "hash": "5ac72692b5d3f2ce676653da788a225c4dfacb268cbb69b6cdca5ec3e2881fb0",
+        "size": 19488,
+        "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E5sub.json"
+    },
+    "E6asub.json": {
+        "filename": "E6asub.json",
+        "hash": "8d472801217d2ded7312d4be700a821f6c25a774fbff729a34a576bb95f1239d",
+        "size": 9065,
+        "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E6asub.json"
+    },
+    "E6bsub.json": {
+        "filename": "E6bsub.json",
+        "hash": "2c3cce9c7d04ecfbaa758fa6e2379570a565d187b3e4f3fce8d570db1d58b4fb",
+        "size": 7939,
+        "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E6bsub.json"
+    },
+    "E6csub.json": {
+        "filename": "E6csub.json",
+        "hash": "53220d564ed3c6be335c34eb00f5c76a23dd15f3fa9f9fa5fa7c5349112ee566",
+        "size": 7878,
+        "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E6csub.json"
+    },
+    "E7sub.json": {
+        "filename": "E7sub.json",
+        "hash": "dca10e2ccc5752877f16a23c8f7b74d9e0f13d0e361df4fcb0b0f2ac834842e4",
+        "size": 9768,
+        "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E7sub.json"
+    },
+    "E8sub.json": {
+        "filename": "E8sub.json",
+        "hash": "6055caa874448995054533fc8aab0fc81b46c3f36890f0af4c591120bf17763c",
+        "size": 5793,
+        "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E8sub.json"
+    },
+    "E9sub.json": {
+        "filename": "E9sub.json",
+        "hash": "3293418c1aae26c7d680c02ca9c3f2a936d975458dc151f70e145daa5688a1f9",
+        "size": 5264,
+        "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E9sub.json"
+    },
+    "version": "2.0.11102025_125336"
+}
