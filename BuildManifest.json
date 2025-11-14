@@ -1,100 +1,100 @@
 {
-    "version": "2.0.11102025_181750",
+    "version": "2.0.14112025_114832",
     "android": {
         "pakchunk1-Android_ASTC.pak": {
             "filename": "pakchunk1-Android_ASTC.pak",
-            "hash": "1928421bcba9a3648399894dea94c75c9dabedf325b8619a09d711e50f0bb54b",
-            "size": 3479537,
+            "hash": "1ebd8df4ecb0e3cfecf930c404041f71104f70215699efa8f091f7de1868d097",
+            "size": 3394517,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk1-Android_ASTC.pak"
         },
         "pakchunk101-Android_ASTC.pak": {
             "filename": "pakchunk101-Android_ASTC.pak",
-            "hash": "8ade539803a3887982581f97c482761ecea281ef8ef93fb29702c93da8beb635",
-            "size": 11331557,
+            "hash": "d727a40b6cd49ba74585b9edfaa95e9aac9f483b75f7788a57825a0d1d83000a",
+            "size": 11335510,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk101-Android_ASTC.pak"
         },
         "pakchunk102-Android_ASTC.pak": {
             "filename": "pakchunk102-Android_ASTC.pak",
-            "hash": "2b3df6f7209cd888d8bc63e15d51c79cc4acd21d7f996701b1697841eca47759",
-            "size": 11111966,
+            "hash": "ca43a72ab33bb8dc826543b31f078b8bab57c93c884c0e7f57494fc04f66bd9a",
+            "size": 11114582,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk102-Android_ASTC.pak"
         },
         "pakchunk103-Android_ASTC.pak": {
             "filename": "pakchunk103-Android_ASTC.pak",
-            "hash": "666770b90c7d65bafed4722500b6b3fa7ab7a23e6f82b7ccf5cd29470ae8631d",
-            "size": 12704650,
+            "hash": "d00f4e92a676e99e647c03d6502864264a34fb7d70f065f6348237cd037501f6",
+            "size": 12705002,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk103-Android_ASTC.pak"
         },
         "pakchunk104-Android_ASTC.pak": {
             "filename": "pakchunk104-Android_ASTC.pak",
-            "hash": "8677ea8a2f5b645770e9071f5745330c1204e7cfefd14bc9e75ff22e20fa58b3",
-            "size": 9089129,
+            "hash": "2c1947db095294c9f0cb557ea3019cab19c22f9bb876d142258033e5cfc42fe1",
+            "size": 9089233,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk104-Android_ASTC.pak"
         },
         "pakchunk105-Android_ASTC.pak": {
             "filename": "pakchunk105-Android_ASTC.pak",
-            "hash": "7522ef8fffb596fff67c889b6d471d956c1c89e6a3400a8f83e53c74371f7778",
-            "size": 47079714,
+            "hash": "db3dd43f3b76000e46fb55753734ef463eea77c00718330a6c23dd4027cca181",
+            "size": 47080549,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk105-Android_ASTC.pak"
         },
         "pakchunk106-Android_ASTC.pak": {
             "filename": "pakchunk106-Android_ASTC.pak",
-            "hash": "897dea85d27d065faaa6fefa48d3778688a1fb9c431d26b5124d5b73548c4376",
-            "size": 5607238,
+            "hash": "2b5607ff438687ab3aeb77771113e23fb1fe6b05d022eb8755d2e41b432751f1",
+            "size": 5606269,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk106-Android_ASTC.pak"
         },
         "pakchunk107-Android_ASTC.pak": {
             "filename": "pakchunk107-Android_ASTC.pak",
-            "hash": "841daaf1a657fd62ad8f90450664bb168833ef611cb23d6f6e372f80f267ec18",
-            "size": 9048074,
+            "hash": "8b1811af9cccd25f69abe85b3b6a0b38715491d8e0147c4095f33126ad4c005a",
+            "size": 9050107,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk107-Android_ASTC.pak"
         },
         "pakchunk108-Android_ASTC.pak": {
             "filename": "pakchunk108-Android_ASTC.pak",
-            "hash": "77afb0b1088fa99378612c2dbb4e3f90e6bf2e196abc0d466b145f62bdd03310",
-            "size": 58189971,
+            "hash": "d1776ff31037916d0885ac5008589a752216a3babc81fc5974c5159b646f6946",
+            "size": 58203425,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk108-Android_ASTC.pak"
         },
         "pakchunk109-Android_ASTC.pak": {
             "filename": "pakchunk109-Android_ASTC.pak",
-            "hash": "14fa060cdc37d6fa9bca24b6ed0440e61afd8a98e7bfc7b95d3296f1a5f5fdbe",
-            "size": 27334423,
+            "hash": "b600d6dd400a23c8b6563255b10e3c28b1bd7963b7d84b0776ffa65c006e5753",
+            "size": 27344893,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk109-Android_ASTC.pak"
         },
         "pakchunk110-Android_ASTC.pak": {
             "filename": "pakchunk110-Android_ASTC.pak",
-            "hash": "63822c0bfdff4d14c5118c82570a49e599faeb3385dd3972197b30040b1e398d",
-            "size": 23471288,
+            "hash": "091153b7b15c075bfd6c42b9a4ee18ade2c5d4cf90289d8e11706a3e7cbcddc9",
+            "size": 23478374,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk110-Android_ASTC.pak"
         },
         "pakchunk2-Android_ASTC.pak": {
             "filename": "pakchunk2-Android_ASTC.pak",
-            "hash": "cb16c2d578209a553bea32b071b3f4c710b442285d5a79ed8e2db5c9eb1585d5",
-            "size": 60340799,
+            "hash": "b5846f5691dbbe5d3463fe580d45da612e9285fbf35d5e88a3844be6b1aa180c",
+            "size": 60290120,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk2-Android_ASTC.pak"
         },
         "pakchunk201-Android_ASTC.pak": {
             "filename": "pakchunk201-Android_ASTC.pak",
-            "hash": "bbab96cdf55c7347dd2ddeef1dd8df544b5eb1ff8025977446a73d1b6ba19ab6",
+            "hash": "bff65ec2fa7b5737fb3580044482f086b0f01a348f629eb93dfb94fdee251b67",
             "size": 12699,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk201-Android_ASTC.pak"
         },
         "pakchunk3-Android_ASTC.pak": {
             "filename": "pakchunk3-Android_ASTC.pak",
-            "hash": "1c7defe7c0cbdbb75903c89004dca162083ef0a8b8ee1033cff564457799b82d",
-            "size": 412046,
+            "hash": "3c816bba9da58bcaa7462e81a820646f239b0d9c2a739ab0854097711566a362",
+            "size": 412165,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk3-Android_ASTC.pak"
         },
         "pakchunk4-Android_ASTC.pak": {
             "filename": "pakchunk4-Android_ASTC.pak",
-            "hash": "bef52709e25359a12f88560079b8f21be139ffbbc6a6f1afb4423f804ba872ad",
-            "size": 49234225,
+            "hash": "5289c361aaa0df132f5432fffdccb9e467b4938d971f0c19c5a3fa1a926f3f3d",
+            "size": 49251965,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk4-Android_ASTC.pak"
         },
         "pakchunk5-Android_ASTC.pak": {
             "filename": "pakchunk5-Android_ASTC.pak",
-            "hash": "a49a1765f2220ab1f85d69b49ca7c069df0f0b248066ca4a56c2a7efd76001a0",
-            "size": 337419,
+            "hash": "f09825083ef30242ae04d660dd618e8f7212a518ac4b9d56764065edbfa4e63c",
+            "size": 337721,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk5-Android_ASTC.pak"
         },
         "E1.json": {
@@ -171,233 +171,34 @@
         },
         "E7.json": {
             "filename": "E7.json",
-            "hash": "6bb10785a8e97d08290c4945a93e3d0c4ca91af275234de36268a7995ba5c207",
-            "size": 247394,
+            "hash": "8592702362c99c25868573d9643b907834f96135b155921a30f68b6cac58eaec",
+            "size": 134722,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E7.json"
         },
         "E8.json": {
             "filename": "E8.json",
-            "hash": "c88358e002c2a1b6ede5c94787a6081e9c72e640aeea23880bd83a4c1a3d4032",
+            "hash": "42209fd652bf1f5a2d0bf6c10c2bbd224c732cb0f342b98f56156feedf506a41",
             "size": 11159,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E8.json"
         },
         "E9.json": {
             "filename": "E9.json",
-            "hash": "5211c2d4351f8fdac4699e65d7466bf6fe8b6d6907ec470eb1d574aec9562088",
+            "hash": "7ae7ab23d3e15d799792c1a57e4b7fc6ee2ab0055ee6de08d63df93c35eb1c0f",
             "size": 287405,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E9.json"
         },
         "menu.json": {
             "filename": "menu.json",
-            "hash": "f4df130dd89dab002c3cfdc08cedb623f7aa0110fd2b648d9f0c2562c545da71",
+            "hash": "3510dfa91ad8ae0063601111fa3c20c5af90913c009b1e199710d3e5a634aae2",
             "size": 2747,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/menu.json"
         },
         "sugar.mp4": {
             "filename": "sugar.mp4",
-            "hash": "1fe9c64e0778a54b037958731722bcc5c64050e00854995776823e94cea7f23e",
+            "hash": "b2e5ca43781e018e856aa471aec5ad43a08d60365ed02c1fbd151214952275e2",
             "size": 23695032,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/sugar.mp4"
         }
     },
-    "windows": {
-        "pakchunk1-Windows.pak": {
-            "filename": "pakchunk1-Windows.pak",
-            "hash": "76e23f135dba997f1f13b537484d352ac5a44dc11102a4e6926c50271c6269e5",
-            "size": 6611516,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk1-Windows.pak"
-        },
-        "pakchunk101-Windows.pak": {
-            "filename": "pakchunk101-Windows.pak",
-            "hash": "45966acc8c6fcd98f06bb45dbf37fd0237b30183b3f3f18f49cc85031877bb98",
-            "size": 14603016,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk101-Windows.pak"
-        },
-        "pakchunk102-Windows.pak": {
-            "filename": "pakchunk102-Windows.pak",
-            "hash": "603c0ea704f1b3bc41769248874deefcbbfec32e054c2d7c369681fb15e5e130",
-            "size": 21173749,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk102-Windows.pak"
-        },
-        "pakchunk103-Windows.pak": {
-            "filename": "pakchunk103-Windows.pak",
-            "hash": "ca73ae32e0c97e3d41e6e94ed409ae375a2a9d4de96e5d8c18505bc48bb382ef",
-            "size": 20055213,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk103-Windows.pak"
-        },
-        "pakchunk104-Windows.pak": {
-            "filename": "pakchunk104-Windows.pak",
-            "hash": "151121926de68899520a2ff5c1602503e1cb75583ddb04917fa663fadf559a00",
-            "size": 16702074,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk104-Windows.pak"
-        },
-        "pakchunk105-Windows.pak": {
-            "filename": "pakchunk105-Windows.pak",
-            "hash": "d71daeeaa545bcb76396c7d54ebed84a88355a5f8c1ec86914ccdda944697434",
-            "size": 59966286,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk105-Windows.pak"
-        },
-        "pakchunk106-Windows.pak": {
-            "filename": "pakchunk106-Windows.pak",
-            "hash": "ea81fefff6cb8c5069aea49195c80d5f09164cfb1934294725aa888a403197ed",
-            "size": 11309762,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk106-Windows.pak"
-        },
-        "pakchunk107-Windows.pak": {
-            "filename": "pakchunk107-Windows.pak",
-            "hash": "fed4aba3f2e40efe14e87d83fd3d31267ba41037d3323e274f6c965e7e15ec1a",
-            "size": 19937722,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk107-Windows.pak"
-        },
-        "pakchunk108-Windows.pak": {
-            "filename": "pakchunk108-Windows.pak",
-            "hash": "5d48bfdd2a5948426a464a2ef77f0549e336003063c324b945548c352b9e6e68",
-            "size": 61320095,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk108-Windows.pak"
-        },
-        "pakchunk109-Windows.pak": {
-            "filename": "pakchunk109-Windows.pak",
-            "hash": "01a4448a017842284e205983c2098c1c1829982eca7438ca0b4063cca10088e7",
-            "size": 27266518,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk109-Windows.pak"
-        },
-        "pakchunk110-Windows.pak": {
-            "filename": "pakchunk110-Windows.pak",
-            "hash": "3713df7a8d1908e87c714b6944bd9dd8e8162865a7fe2dd17ea16433eaed7108",
-            "size": 33914195,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk110-Windows.pak"
-        },
-        "pakchunk2-Windows.pak": {
-            "filename": "pakchunk2-Windows.pak",
-            "hash": "31bee8b6f6ddf252df354072b290ceb9b11181420b8c88bba0a1c2c1ef07ed2f",
-            "size": 99080646,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk2-Windows.pak"
-        },
-        "pakchunk201-Windows.pak": {
-            "filename": "pakchunk201-Windows.pak",
-            "hash": "beedda8a6796acb474165257b46156e151b98d90fe23bc8e9ba7dc8001952ee1",
-            "size": 12699,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk201-Windows.pak"
-        },
-        "pakchunk3-Windows.pak": {
-            "filename": "pakchunk3-Windows.pak",
-            "hash": "4d4bd24f5c7ceff7a239c8680985fa846744cafff2e1c9ec9df1f10d0d11ce05",
-            "size": 2303847,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk3-Windows.pak"
-        },
-        "pakchunk4-Windows.pak": {
-            "filename": "pakchunk4-Windows.pak",
-            "hash": "d7b6abe436f763940ede407c765f7dddbbdc3b99b90e452667de85e22251fe2f",
-            "size": 40197558,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk4-Windows.pak"
-        },
-        "pakchunk5-Windows.pak": {
-            "filename": "pakchunk5-Windows.pak",
-            "hash": "593f6acd411730337a68c35bb7eeae31b90cf2f93078549bf348a33042159e72",
-            "size": 1059566,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/pakchunk5-Windows.pak"
-        },
-        "E1.json": {
-            "filename": "E1.json",
-            "hash": "2122a3a09c882070dcbfb3e9ef24693e2e3280e2f8595de296efc329145e8c8b",
-            "size": 4828,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E1.json"
-        },
-        "E10.json": {
-            "filename": "E10.json",
-            "hash": "076fcc01572e8aa5e4dfc35ad7922502a6b0e20ef3d8027f0e657bd59bc0dccd",
-            "size": 46956,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E10.json"
-        },
-        "E10b.json": {
-            "filename": "E10b.json",
-            "hash": "b1195f4483144f725e2c5305e5ff4eca29fa86041fae32757b68e43462ed7b75",
-            "size": 53100,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E10b.json"
-        },
-        "E2.json": {
-            "filename": "E2.json",
-            "hash": "3ea362f2f6ca4dcab2eda28d6240bea75fe016ea65dd7ee96c24d7611eb04b11",
-            "size": 103182,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E2.json"
-        },
-        "E2b.json": {
-            "filename": "E2b.json",
-            "hash": "64a6e691a85076393b6801241016fc642ab5f639458ea435f89176e66087d9f3",
-            "size": 4203,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E2b.json"
-        },
-        "E3.json": {
-            "filename": "E3.json",
-            "hash": "aad553260a1ec7b6026266de1770f5e779b1f54497788cf28c90b72656da4ede",
-            "size": 32958,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E3.json"
-        },
-        "E4.json": {
-            "filename": "E4.json",
-            "hash": "4a0441f114686deda336413ab9ae56e934b91be086b0ee4988c404bbbe1a9813",
-            "size": 65186,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E4.json"
-        },
-        "E5.json": {
-            "filename": "E5.json",
-            "hash": "653fbe6a1ce768674ae82cd75da927ed6d5137ac5996ceb5ba0011e579f4fa9a",
-            "size": 54020,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E5.json"
-        },
-        "E5b.json": {
-            "filename": "E5b.json",
-            "hash": "40d6c7fc0cf10b66fb52a93532d0330d464b0370abd0f350623ee68a903b715a",
-            "size": 33418,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E5b.json"
-        },
-        "E6a.json": {
-            "filename": "E6a.json",
-            "hash": "2acfc484815528da8a9448d624752c6e9d27afadf5f729f30424f686225a682b",
-            "size": 33096,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E6a.json"
-        },
-        "E6b.json": {
-            "filename": "E6b.json",
-            "hash": "db45ea86ddd96714a21ae0558492ef0cffc32be15005fffaaed80f009de9b8c3",
-            "size": 21726,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E6b.json"
-        },
-        "E6c.json": {
-            "filename": "E6c.json",
-            "hash": "2bdccdb7f414a139c9a761683570f6411ff9a7ab4f97684279030a847147c227",
-            "size": 39836,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E6c.json"
-        },
-        "E7.json": {
-            "filename": "E7.json",
-            "hash": "6bb10785a8e97d08290c4945a93e3d0c4ca91af275234de36268a7995ba5c207",
-            "size": 247394,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E7.json"
-        },
-        "E8.json": {
-            "filename": "E8.json",
-            "hash": "c88358e002c2a1b6ede5c94787a6081e9c72e640aeea23880bd83a4c1a3d4032",
-            "size": 11159,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E8.json"
-        },
-        "E9.json": {
-            "filename": "E9.json",
-            "hash": "5211c2d4351f8fdac4699e65d7466bf6fe8b6d6907ec470eb1d574aec9562088",
-            "size": 287405,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E9.json"
-        },
-        "menu.json": {
-            "filename": "menu.json",
-            "hash": "f4df130dd89dab002c3cfdc08cedb623f7aa0110fd2b648d9f0c2562c545da71",
-            "size": 2747,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/menu.json"
-        },
-        "sugar.mp4": {
-            "filename": "sugar.mp4",
-            "hash": "1fe9c64e0778a54b037958731722bcc5c64050e00854995776823e94cea7f23e",
-            "size": 23695032,
-            "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/sugar.mp4"
-        }
-    }
+    "windows": {}
 }
