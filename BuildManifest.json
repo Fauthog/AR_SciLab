@@ -1,5 +1,5 @@
 {
-    "version": "2.0.14112025_121810",
+    "version": "2.0.14112025_123030",
     "android": {
         "pakchunk1-Android_ASTC.pak": {
             "filename": "pakchunk1-Android_ASTC.pak",
@@ -171,31 +171,31 @@
         },
         "E7.json": {
             "filename": "E7.json",
-            "hash": "8592702362c99c25868573d9643b907834f96135b155921a30f68b6cac58eaec",
-            "size": 134722,
+            "hash": "ebbd4aa131dff315896478ce4c7ead61486898a23662b6da046315c17c0f8bb0",
+            "size": 247410,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E7.json"
         },
         "E8.json": {
             "filename": "E8.json",
-            "hash": "42209fd652bf1f5a2d0bf6c10c2bbd224c732cb0f342b98f56156feedf506a41",
+            "hash": "16fa770e4c281f92d7cef54f5c8f75e2ce6e62c72abc6e85e1fa8d732ee508c3",
             "size": 11159,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E8.json"
         },
         "E9.json": {
             "filename": "E9.json",
-            "hash": "7ae7ab23d3e15d799792c1a57e4b7fc6ee2ab0055ee6de08d63df93c35eb1c0f",
+            "hash": "cb858a797cca6cd0d02efbf6c3388ee79af83306f1387c20ee5f10af74a5aa52",
             "size": 287405,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/E9.json"
         },
         "menu.json": {
             "filename": "menu.json",
-            "hash": "3510dfa91ad8ae0063601111fa3c20c5af90913c009b1e199710d3e5a634aae2",
+            "hash": "ed8ff4437bd2a4da615ead6e14b3fd0fe9c104397e90f4d9e57b29cb183dcc0f",
             "size": 2747,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/menu.json"
         },
         "sugar.mp4": {
             "filename": "sugar.mp4",
-            "hash": "b2e5ca43781e018e856aa471aec5ad43a08d60365ed02c1fbd151214952275e2",
+            "hash": "1d1857328ee0c48368680c9811e913c9776af2f66c0eec3d3f9be505d1adee8d",
             "size": 23695032,
             "url": "https://raw.githubusercontent.com/Fauthog/AR_SciLab/refs/heads/main/sugar.mp4"
         }
